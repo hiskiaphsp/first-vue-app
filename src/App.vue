@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-gray-80g0">
+  <div class="min-h-screen bg-gray-800">
     <Navbar :navigation/>
   </div>
 </template>
